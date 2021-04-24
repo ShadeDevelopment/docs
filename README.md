@@ -1,2 +1,2 @@
 # Documentation
-> Documentation for Projects of Shade's Workshop
+> Documentation for Projects of Shade's Workshop made with Next.JS
