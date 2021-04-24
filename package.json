@@ -1,0 +1,23 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "Docs for Projects of Shade's Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadeDevelopment/docs.git"
+  },
+  "keywords": [
+    "docs"
+  ],
+  "author": "shadeoxide",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ShadeDevelopment/docs/issues"
+  },
+  "homepage": "https://github.com/ShadeDevelopment/docs#readme"
+}
